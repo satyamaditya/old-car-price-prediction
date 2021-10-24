@@ -1,0 +1,2 @@
+# old-car-price-prediction
+myself ADITYA JHA, i build a regression Model,which predicts the price of cars, in this project i use PANDAS for importing the file &amp; doing EDA, SWEETVIZ library to select the best features which are contributing to label column, KFold cross validation for split our data into training &amp; testing part and finally developed the ML model &amp; made a predictive system.
